@@ -1,4 +1,4 @@
-# Project Title:  Time Series Analysis on Airline Passengers Dataset
+# Project Title:  Time Series Analysis & Forecasting on Airline Passengers Dataset
 
 ## Introduction:
 In this project, we perform time series analysis on the airline passengers dataset to predict future passenger numbers for the airline industry. 
