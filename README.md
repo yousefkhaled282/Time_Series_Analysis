@@ -20,7 +20,7 @@ to make predictions on future passenger numbers.
 
 ## Dataset:
 The dataset used in this project is the **airline passengers** dataset which contains the number of passengers who traveled by airline per month from 1949 to 1960.
-The dataset has 144 observations and two columns: Month and the number of passengers.
+The dataset has 144 observations and two columns: Month and the number of passengers. 
 
 Methodology:
 First, we import the necessary libraries such as numpy, pandas, sklearn, warnings, and matplotlib. 
