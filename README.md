@@ -14,7 +14,7 @@ In this project, we use various time series techniques such as
  - S-ARIMA 
  - Exponential Smoothing 
  - Facebook Prophet 
- - XGBoost 
+ - Supervised ML (XGBoost)
  
 to make predictions on future passenger numbers.
 
